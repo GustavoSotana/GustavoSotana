@@ -32,5 +32,9 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GustavoSotana/GustavoSotana/output/github-snake.svg" alt="Cobra animada do GitHub" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/GustavoSotana/GustavoSotana/output/github-snake.svg"
+    alt="Cobra verde animada do GitHub"
+    width="100%"
+  />
 </p>
