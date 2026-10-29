@@ -31,10 +31,11 @@
 
 
 
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/GustavoSotana/GustavoSotana/output/github-snake.svg"
-    alt="Cobra verde animada do GitHub"
+    src="https://raw.githubusercontent.com/GustavoSotana/GustavoSotana/output/github-contribution-grid-snake.svg"
+    alt="Cobra verde animada das contribuições do GitHub"
     width="100%"
   />
 </p>
