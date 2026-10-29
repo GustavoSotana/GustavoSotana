@@ -1,4 +1,5 @@
-<img src="https://tenor.com" width="300px" />
+<img src="https://amazonaws.com" align="right" width="160">
+
 
 
 # Hi 👋, I'm GustavoSotana
