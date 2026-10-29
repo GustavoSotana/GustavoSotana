@@ -21,6 +21,4 @@
 
 ---
 
-### 🕹️ Meu Jogo da Cobrinha:
-
 ![Jogo da Cobrinha](https://githubusercontent.com)
