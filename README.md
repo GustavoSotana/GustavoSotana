@@ -1,4 +1,3 @@
-<img src="https://githubassets.com" align="right" width="100">
 
 
 # Hi 👋, I'm GustavoSotana
