@@ -26,3 +26,11 @@
 
 
 <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="100%">
+
+
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GustavoSotana/GustavoSotana/output/github-snake.svg" alt="Cobra animada do GitHub" width="100%">
+</p>
