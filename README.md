@@ -22,8 +22,5 @@
 ---
 
 ### 🕹️ Meu Jogo da Cobrinha:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
-</picture>
+![Jogo da Cobrinha](https://githubusercontent.com)
+
