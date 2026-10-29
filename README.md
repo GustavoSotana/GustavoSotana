@@ -1,3 +1,6 @@
+<img src="https://giphy.com" align="right" width="120">
+
+
 # Hi 👋, I'm GustavoSotana
 
 ### Estudante de Desenvolvimento Web ou Apaixonado por tecnologia.
@@ -21,4 +24,3 @@
 
 ---
 
-![Jogo da Cobrinha](https://githubusercontent.com)
