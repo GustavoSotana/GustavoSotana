@@ -1,4 +1,4 @@
-<img src="https://giphy.com" align="right" width="120">
+<img src="https://githubusercontent.com" align="right" width="130">
 
 
 # Hi 👋, I'm GustavoSotana
