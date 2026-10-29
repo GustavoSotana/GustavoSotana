@@ -1,5 +1,3 @@
-# Hi 👋, I'm GustavoSotana <img src="https://giphy.com" width="40">
-
 
 
 
@@ -26,3 +24,5 @@
 
 ---
 
+
+<img src="https://githubusercontent.com" width="100%">
